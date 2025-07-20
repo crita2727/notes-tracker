@@ -16,7 +16,7 @@
 - git commit records the snapshot
 
 ## 🧪 Practice Tasks
-- [x] Create a Git repo
+- [ ] Create a Git repo
 - [ ] Practice branching
 - [ ] Create a merge conflict and solve it
 
