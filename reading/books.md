@@ -11,4 +11,4 @@
 - *The Lean Startup*
 - *The Psychology of Money*
 - *Thinking, Fast and Slow*
-
+  The edited one
